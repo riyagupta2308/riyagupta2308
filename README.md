@@ -20,8 +20,7 @@ I am a student at **Vivekananda College, University of Delhi**. I love bridging 
 *   **Differential Equations:** Solving complex linear non-homogeneous differential equations.
 
 ---
-
 ### 📫 Let's Connect!
-*   [LinkedIn](www.linkedin.com/in/riya-gupta-6071393ab)
-*   [Naukri Profile](naukri.com/campus)
-*   gmail: riyagupta171122@gmail.com
+*   **LinkedIn:** [linkedin.com/in/riya-gupta-6071393ab](https://www.linkedin.com/in/riya-gupta-6071393ab)
+*   **Naukri:** [My Naukri Profile](https://www.naukri.com/campus)
+*   **Email:** [riyagupta171122@gmail.com](mailto:riyagupta171122@gmail.com)
