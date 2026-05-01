@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm [Aapka Naam]! 👋
 
-<!--
-**riyagupta2308/riyagupta2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Sc Mathematics Student | Aspiring Data Analyst & Web Developer
 
-Here are some ideas to get you started:
+I am a student at **Vivekananda College, University of Delhi**. I love bridging the gap between mathematical logic and real-world data insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+*   **Programming:** Python (Proficient)
+*   **Data Analysis:** Statistical Analysis, Linear Algebra
+*   **Tools:** Git, GitHub, MS Excel
+*   **Interests:** Web Development, Data Analytics
+
+---
+
+### 📊 Projects & Research
+*   **Mathematical Models:** Worked on projects involving radioactive decay calculations and population growth models.
+*   **Differential Equations:** Solving complex linear non-homogeneous differential equations.
+
+---
+
+### 📫 Let's Connect!
+*   [LinkedIn](Aapka-LinkedIn-Link)
+*   [Naukri Profile](Aapka-Naukri-Link)
