@@ -1,4 +1,4 @@
-# Hi there, I'm [Aapka Naam]! 👋
+# Hi there, I'm RIYA GUPTA! 👋
 
 ### 🎓 B.Sc Mathematics Student | Aspiring Data Analyst & Web Developer
 
@@ -22,5 +22,6 @@ I am a student at **Vivekananda College, University of Delhi**. I love bridging 
 ---
 
 ### 📫 Let's Connect!
-*   [LinkedIn](Aapka-LinkedIn-Link)
-*   [Naukri Profile](Aapka-Naukri-Link)
+*   [LinkedIn](www.linkedin.com/in/riya-gupta-6071393ab)
+*   [Naukri Profile](naukri.com/campus)
+*   gmail: riyagupta171122@gmail.com
